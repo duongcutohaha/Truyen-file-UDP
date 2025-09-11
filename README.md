@@ -70,6 +70,8 @@ Streaming đa phương tiện, IPTV.
 
 ## 📝 4. License
 
-© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+DaiNam University. 
+Lê Xuân Dương - 1671020074
+Gmail: lexuanduong129@gmail.com
 
 ---
