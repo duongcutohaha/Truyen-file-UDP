@@ -19,14 +19,52 @@
 
 </div>
 ## 📖 1. Giới thiệu
-UDP (User Datagram Protocol) là giao thức tầng transport, phi kết nối, tốc độ nhanh, ít overhead. 
-Tuy nhiên UDP không đảm bảo độ tin cậy, có thể xảy ra mất gói, trùng gói, đảo thứ tự gói. 
-Đề tài này triển khai một hệ thống truyền file giữa client và server thông qua UDP, đồng thời đề xuất cơ chế kiểm soát độ tin cậy cơ bản.
+Giới thiệu về UDP (User Datagram Protocol)
 
+Trong lĩnh vực mạng máy tính, UDP (User Datagram Protocol) là một trong những giao thức quan trọng thuộc tầng Transport trong mô hình TCP/IP. UDP được sử dụng để truyền dữ liệu giữa các thiết bị trong mạng một cách nhanh chóng, gọn nhẹ mà không cần quá nhiều cơ chế kiểm soát phức tạp.
+
+🔹 Đặc điểm chính của UDP
+
+Không kết nối (Connectionless):
+Trước khi gửi dữ liệu, UDP không cần thiết lập kết nối giữa client và server như TCP. Vì vậy, việc truyền tải diễn ra nhanh hơn.
+
+Không đảm bảo (Unreliable):
+UDP không đảm bảo dữ liệu sẽ đến nơi, không kiểm tra lỗi toàn vẹn dữ liệu, không có cơ chế xác nhận gói tin đã được nhận.
+
+Đơn giản và hiệu quả:
+UDP có header chỉ 8 byte, nhỏ hơn rất nhiều so với TCP (20 byte), giúp tiết kiệm băng thông.
+
+Truyền broadcast/multicast:
+UDP hỗ trợ gửi dữ liệu tới nhiều thiết bị cùng lúc, rất hữu ích trong các ứng dụng cần phân phối dữ liệu đồng thời.
+
+🔹 Cấu trúc gói tin UDP
+
+Một gói tin UDP bao gồm 4 phần chính:
+
+Source Port (16 bit): Cổng nguồn.
+
+Destination Port (16 bit): Cổng đích.
+
+Length (16 bit): Độ dài toàn bộ gói UDP.
+
+Checksum (16 bit): Kiểm tra lỗi cơ bản.
+
+🔹 Ứng dụng của UDP
+
+UDP thường được dùng trong các ứng dụng cần tốc độ hơn độ tin cậy tuyệt đối:
+
+Truyền phát video/audio trực tuyến (YouTube, Zoom, VoIP).
+
+Game online (yêu cầu phản hồi nhanh, chấp nhận mất gói).
+
+DNS (Domain Name System).
+
+Streaming đa phương tiện, IPTV.
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ## 🚀 3. Các project đã thực hiện
+
 
 ### [Khoá 16](./docs/projects/K16/README.md)
 
