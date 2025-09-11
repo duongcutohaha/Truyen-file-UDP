@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   Truyền file qua UDP
+   TRUYỀN FILE QUA UDP
 </h2>
 <div align="center">
     <p align="center">
@@ -63,10 +63,18 @@ Streaming đa phương tiện, IPTV.
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-## 🚀 3. Các project đã thực hiện
+## 🚀 3. Công nghệ sử dụng
 
+Java: ngôn ngữ lập trình chính.
 
-### [Khoá 16](./docs/projects/K16/README.md)
+UDP (User Datagram Protocol): giao thức truyền nhanh, không kết nối.
+
+Socket lập trình mạng: DatagramSocket, DatagramPacket.
+
+Java IO: đọc file (FileInputStream), ghi file (FileOutputStream).
+
+Header Sequence Number: số thứ tự gói tin để ghép file đúng.
+
 
 ## 📝 4. License
 
