@@ -67,7 +67,15 @@ Streaming đa phương tiện, IPTV.
 
 Java: ngôn ngữ lập trình chính.
 
-UDP (User Datagram Protocol): Nguồn
+UDP (User Datagram Protocol): giao thức truyền nhanh, không kết nối.
+
+Socket lập trình mạng: DatagramSocket, DatagramPacket.
+
+Java IO: đọc file (FileInputStream), ghi file (FileOutputStream).
+
+Header Sequence Number: số thứ tự gói tin để ghép file đúng.
+
+## Nguồn
 DaiNam University. 
 Lê Xuân Dương - 1671020074
 Gmail: lexuanduong129@gmail.com
