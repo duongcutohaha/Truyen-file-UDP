@@ -18,9 +18,9 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
 ## 📖 1. Giới thiệu
 Giới thiệu về UDP (User Datagram Protocol)
-
 Trong lĩnh vực mạng máy tính, UDP (User Datagram Protocol) là một trong những giao thức quan trọng thuộc tầng Transport trong mô hình TCP/IP. UDP được sử dụng để truyền dữ liệu giữa các thiết bị trong mạng một cách nhanh chóng, gọn nhẹ mà không cần quá nhiều cơ chế kiểm soát phức tạp.
 
 🔹 Đặc điểm chính của UDP
@@ -67,17 +67,7 @@ Streaming đa phương tiện, IPTV.
 
 Java: ngôn ngữ lập trình chính.
 
-UDP (User Datagram Protocol): giao thức truyền nhanh, không kết nối.
-
-Socket lập trình mạng: DatagramSocket, DatagramPacket.
-
-Java IO: đọc file (FileInputStream), ghi file (FileOutputStream).
-
-Header Sequence Number: số thứ tự gói tin để ghép file đúng.
-
-
-## 📝 4. License
-
+UDP (User Datagram Protocol): Nguồn
 DaiNam University. 
 Lê Xuân Dương - 1671020074
 Gmail: lexuanduong129@gmail.com
