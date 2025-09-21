@@ -65,15 +65,23 @@ Streaming đa phương tiện, IPTV.
 
 ## 🚀 3. Công nghệ sử dụng
 
-Java: ngôn ngữ lập trình chính.
+<p align="center">
+  <img src="![z7035786410500_d8b5418e1c6ede72bd25a9309533b2e5](https://github.com/user-attachments/assets/2f9bb1df-e6fe-48ed-b781-c657e4411a78)" alt="Ảnh 1" width="800"/>
+</p>
 
-UDP (User Datagram Protocol): giao thức truyền nhanh, không kết nối.
+<p align="center">
+  <em>Hình 1: Ảnh giao diện chat giữa Client-Server  </em>
+</p>
+## 📝 4. Hướng dẫn cài đặt và sử dụng
+### 🔧 Yêu cầu hệ thống
 
-Socket lập trình mạng: DatagramSocket, DatagramPacket.
+- **Java Development Kit (JDK)**: Phiên bản 8 trở lên
+- **Hệ điều hành**: Windows, macOS, hoặc Linux
+- **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
+- **Bộ nhớ**: Tối thiểu 512MB RAM
+- **Dung lượng**: Khoảng 10MB cho mã nguồn và file thực thi
+- ### 📦 Cài đặt và triển khai
 
-Java IO: đọc file (FileInputStream), ghi file (FileOutputStream).
-
-Header Sequence Number: số thứ tự gói tin để ghép file đúng.
 
 ## Nguồn
 DaiNam University. 
