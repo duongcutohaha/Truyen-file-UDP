@@ -66,39 +66,39 @@ Streaming đa phương tiện, IPTV.
 ## 🚀 3. Công nghệ sử dụng
 
 <p align="center">
-  <img src="D:\baitaplon\z7035786410500_d8b5418e1c6ede72bd25a9309533b2e5.jpg" alt="Ảnh 1" width="1000"/>
+  <img src="z7035786410500_d8b5418e1c6ede72bd25a9309533b2e5.jpg" alt="Ảnh 1" width="1000"/>
 </p>
 
 <p align="center">
-  <em>Hình 1: Ảnh giao diện giữa Client-Server  </em>
+  <em>Hình 1: Ảnh giao diện   </em>
 </p>
 
 <p align="center">
-  <img src="D:\baitaplon\z7035788886451_d385743a247ab62b886e8ddda792cd6b.jpg" alt="Ảnh 2" width="1000"/>
+  <img src="z7035788886451_d385743a247ab62b886e8ddda792cd6b.jpg" alt="Ảnh 2" width="1000"/>
 </p>
 <p align="center">
-  <em> Hình 2: Client kết  với Server </em>
-</p>
-
-<p align="center">
-  <img src="images/AnhClientChatVoiNhau.jpg" alt="Ảnh 3" width="450"/>
-</p>
-<p align="center">
-  <em> Hình 3: Hai Client chat với nhau.</em>
+  <em> Hình 2: Chọn file để truyền </em>
 </p>
 
 <p align="center">
-  <img src="images/AnhClient1guiTNClient2khioff.jpg" alt="Ảnh 4" width="700"/>
+  <img src="z7035790708936_49c2d8164028215be815e21c98b8a6dd.jpg" alt="Ảnh 3" width="1000"/>
 </p>
 <p align="center">
-  <em> Hình 4: Client Lanh gửi tin nhắn khi Client Hoa offine.</em>
+  <em> Hình 3: File được chọn và gửi </em>
 </p>
 
 <p align="center">
-  <img src="images/AnhClient2nhanDcTnKhiOnl.jpg" alt="Ảnh 5" width="400"/>
+  <img src="z7035793657540_7515c0a165ea2c334acd91bdd1f06372.jpg" alt="Ảnh 4" width="700"/>
 </p>
 <p align="center">
-  <em> Hình 5: Client Hoa nhận được tin nhắn từ Client Lanh khi online.</em>
+  <em> Hình 4: Gửi thành công </em>
+</p>
+
+<p align="center">
+  <img src="z7035800768760_9469e084f7f7a7c680c9d06284296684.jpg" alt="Ảnh 5" width="400"/>
+</p>
+<p align="center">
+  <em> Hình 5:Kết quả </em>
 </p>
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
 ### 🔧 Yêu cầu hệ thống
