@@ -109,7 +109,10 @@ Streaming đa phương tiện, IPTV.
 - **Bộ nhớ**: Tối thiểu 512MB RAM
 - **Dung lượng**: Khoảng 10MB cho mã nguồn và file thực thi
 - ### 📦 Cài đặt và triển khai
-
+### 1️⃣ Chạy Server
+run as với sever để lắng nghe cổng 9999
+### 2️⃣ Chạy Client
+run as với client là hoàn thiện
 
 ## Nguồn
 DaiNam University. 
