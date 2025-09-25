@@ -113,15 +113,17 @@ Streaming đa phương tiện, IPTV.
 ### 1️⃣ Chạy Server
 run as với sever để lắng nghe cổng 9999
 ### 2️⃣ Chạy Client
-run as với client là hoàn thiện
+run as với client để chọn file và gửi file
 ## 📌 Ghi chú
+- Vì gửi qua UDP nên không đảm bảo thứ tự & không đảm bảo không mất gói
+- Nếu file to hoặc mạng kém → có thể mất gói, file bị lỗi.
 - Server phải được khởi động **trước khi Client gửi file**.
 - Nếu chưa chọn thư mục lưu, file sẽ được lưu ngay tại thư mục chạy chương trình.
 - UDP không đảm bảo toàn vẹn gói tin → chỉ phù hợp để demo, với file nhỏ/medium.
 
 ## Nguồn
 DaiNam University. 
-Lê Xuân Dương - 1671020074
-Gmail: lexuanduong129@gmail.com
+- Lê Xuân Dương - 1671020074
+- Gmail: lexuanduong129@gmail.com
 
 ---
