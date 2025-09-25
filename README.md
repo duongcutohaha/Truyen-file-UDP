@@ -123,7 +123,7 @@ run as với client để chọn file và gửi file
 
 ## Nguồn
 DaiNam University. 
-- Lê Xuân Dương - 1671020074
+- Lê Xuân Dương - CNTT 16-03 - 1671020074
 - Gmail: lexuanduong129@gmail.com
 
 ---
